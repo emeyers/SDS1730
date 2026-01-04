@@ -9,6 +9,7 @@ dependencies = [
     "bokeh>=3.7.3",
     "dask>=2025.7.0",
     "datasets>=4.0.0",
+    "duckdb>=1.4.3",
     "geopandas>=1.1.1",
     "geoplot>=0.5.1",
     "imageio>=2.37.0",
